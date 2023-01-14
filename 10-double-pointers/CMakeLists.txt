@@ -1,0 +1,5 @@
+add_executable(selection-sort-2 selection-sort-2.c)
+add_executable(echo echo.c)
+add_executable(sort sort.c)
+add_executable(integrate  integrate .c)
+add_executable(decl decl.c)
