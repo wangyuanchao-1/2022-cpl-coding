@@ -1,0 +1,5 @@
+add_executable(min-re min-re.c)
+add_executable(sum-re sum-re.c)
+add_executable(fib-re fib-re.c)
+add_executable(gcd-euclidean-re gcd-euclidean-re.c)
+add_executable(bsearch-re bsearch-re.c)
