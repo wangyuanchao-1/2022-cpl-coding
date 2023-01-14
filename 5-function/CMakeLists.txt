@@ -1,1 +1,7 @@
 add_executable(leap leap.c)
+add_executable(primes-1 primes-1.c)
+add_executable(stars-1 stars-1.c)
+add_executable(binary--1 binary-search-1.c)
+add_executable(palindrome-1 palindrome-1.c)
+add_executable(selection-sort-1 selection-sort-1.c)
+add_executable(game-of-life-transformed game-of-life-transformed.c)
